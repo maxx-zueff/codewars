@@ -1,0 +1,5 @@
+# Ignore directory of executable (i.e., ready to run) files
+*/bin/
+
+# Ignore directory for visual basic
+.vscode
